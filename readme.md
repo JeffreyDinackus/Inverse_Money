@@ -42,4 +42,4 @@ Snacklecoins . . . . . . -1 . . . . . . . 0 . . . . . . .  1 . . . . 500000  . .
 
 Each subsequent 1 million will add -1.
 
-Note: While this is open source, it is not freeware. If you wish to use my concept for your project commercially, you will have to ask me. Open source projects, I will probably welcome you! Corporations, I will sue you if you steal my ideas without my permission. 
+Note: While this is open source, it is not freeware. If you wish to use my concept for your project commercially, you will have to ask me. Open source projects, I will probably welcome you! Corporations, I will sue you if you steal my ideas without my permission. For non commercial works, comply with the license. 
