@@ -13,7 +13,10 @@ This is a new way to denominate money using negative numbers.
 The name of the imaginary currency is snacklecoins because it makes me laugh
 
 
+
 This is how it works
+
+
 
 1 USD (or etc.) equals 1 snacklecoin.
 
@@ -21,18 +24,21 @@ This is how it works
 
 2000000 (2 million USD) = -1 snacklecoin.
 
+
+
 If you have 0 USD, you actually have 1000000 snacklecoins. You already do!
 
 between 0 and 1, you will have something between 1000000 and 1 snacklecoins (the first 1 million is easy!).
+
 
 
 I have built a small calculator. calculator.rb
 
 here's a number line:
 
-USD               2000000      1000000          1       .50 (50 cents)       0
+USD . . . . . . . . . . 2000000 . . . . 1000000 . . . . . 1 .  . . . (.50) (50 cents) . . . . . . . 0
 
-Snacklecoins       -1             0              1       500000       1000000
+Snacklecoins . . . . . . -1 . . . . . . . 0 . . . . . . .  1 . . . . 500000  . . . . . . . . . . 1000000
 
 Each subsequent 1 million will add -1.
 
